@@ -1,0 +1,161 @@
+{
+  "organizacion": "Santuario Ajolote · CIMA A.C.",
+  "sitio": "https://axolotfinder.org",
+  "corte": "14 de noviembre de 2026",
+  "idiomas": [
+    "es-MX",
+    "en"
+  ],
+  "servicios": [
+    {
+      "nombre": "Ciencia ciudadana · registro de avistamientos",
+      "url": "https://axolotfinder.org/sightings",
+      "que": "Registro georreferenciado de avistamientos de ajolote con foto, morfo de color, estado de salud y hábitat."
+    },
+    {
+      "nombre": "Ajolote silvestre · reporte en hábitat natural",
+      "url": "https://axolotfinder.org/wild-sightings",
+      "que": "Reporte ciudadano de ajolotes silvestres para monitoreo de las últimas poblaciones del humedal."
+    },
+    {
+      "nombre": "Observatorio de Conservación · mapa interactivo",
+      "url": "https://axolotfinder.org/map",
+      "que": "Mapa de avistamientos, incidencias ambientales, actores del humedal y capas de calidad del agua."
+    },
+    {
+      "nombre": "Observatorio de Conservación · pestaña Mapa de Ciencia",
+      "url": "https://axolotfinder.org/science",
+      "que": "Enciclopedia científica del Ambystoma mexicanum: historia, genómica, neurobiología, medicina regenerativa y conservación."
+    },
+    {
+      "nombre": "Base de datos de genética y linajes",
+      "url": "https://axolotfinder.org/genetics",
+      "que": "Registros genéticos, diversidad, linajes y herramienta de compatibilidad reproductiva."
+    },
+    {
+      "nombre": "Reporte de incidencias ambientales",
+      "url": "https://axolotfinder.org/reporte-incidencia",
+      "que": "Formulario ciudadano para denunciar drenajes, descargas químicas, tala, motores y otros daños al humedal."
+    },
+    {
+      "nombre": "Red de biofiltros",
+      "url": "https://axolotfinder.org/red-de-biofiltros",
+      "que": "Humedales artificiales y estaciones solares comunitarias para limpiar el agua de los canales."
+    },
+    {
+      "nombre": "Rescate de 7 chinampas",
+      "url": "https://axolotfinder.org/proyectos/rescate-7-chinampas",
+      "que": "Restauración hidrológica y agroecológica en San Gregorio Atlapulco."
+    },
+    {
+      "nombre": "Laboratorio de reproducción Coyoacán",
+      "url": "https://axolotfinder.org/proyectos/laboratorio-reproduccion-coyoacan",
+      "que": "Conservación genética de 11 familias genéticas históricas del humedal."
+    },
+    {
+      "nombre": "Refugio tortuga casquito",
+      "url": "https://axolotfinder.org/proyectos/refugio-tortuga-casquito",
+      "que": "Conservación de Kinosternon hirtipes hirtipes en Xochimilco."
+    },
+    {
+      "nombre": "Chile chicuarote",
+      "url": "https://axolotfinder.org/proyectos/chile-chicuarote",
+      "que": "Agrobiodiversidad chinampera y economía circular."
+    },
+    {
+      "nombre": "Chinampas virtuales",
+      "url": "https://axolotfinder.org/chinampas",
+      "que": "Adopción de parcelas digitales que financian la restauración del humedal."
+    },
+    {
+      "nombre": "Certificado Guardián del Ajolote",
+      "url": "https://axolotfinder.org/certificado",
+      "que": "Certificado digital de participación en la conservación."
+    },
+    {
+      "nombre": "Turismo responsable en Xochimilco",
+      "url": "https://axolotfinder.org/turismo-responsable",
+      "que": "Tours en trajinera de remo manual con cooperativas comunitarias: ecosistema del ajolote (2 h), viaje dedicado al ajolote (3 h) y amanecer en Xochimilco (4 h)."
+    },
+    {
+      "nombre": "Batalla por la Playa · turismo comunitario Nayarit",
+      "url": "https://axolotfinder.org/playa",
+      "que": "Surf, pesca responsable, senderismo y hospedaje comunitario en Punta de Mita e Higuera Blanca."
+    },
+    {
+      "nombre": "Voluntariado · brigadas y unidad remota",
+      "url": "https://axolotfinder.org/voluntariado",
+      "que": "Registro de voluntarios para brigadas presenciales y trabajo remoto de conservación."
+    },
+    {
+      "nombre": "Donativos",
+      "url": "https://axolotfinder.org/santuario-ajolote",
+      "que": "Aportaciones para restauración, biofiltros y conservación genética."
+    },
+    {
+      "nombre": "Ajolopesos · tienda y recompensas",
+      "url": "https://axolotfinder.org/mi-galeria",
+      "que": "Moneda comunitaria, compra de ajolotes mágicos ilustrados y galería personal."
+    },
+    {
+      "nombre": "Portal de noticias La Voz del Humedal",
+      "url": "https://axolotfinder.org/noticias",
+      "que": "Redacción propia, hemeroteca, monitoreo de 24 horas y verificación de fuentes."
+    },
+    {
+      "nombre": "Columna El Kizamán, el Perro del Agua",
+      "url": "https://axolotfinder.org/kizaman",
+      "que": "Columna semanal de opinión ambiental."
+    },
+    {
+      "nombre": "Acciones legales y denuncia PROFEPA 0920121",
+      "url": "https://axolotfinder.org/legal",
+      "que": "Expediente público de la denuncia popular por estacionamiento, embarcadero y trajineras sin acreditación en Cuemanco."
+    },
+    {
+      "nombre": "Asistente legal del ANP",
+      "url": "https://axolotfinder.org/asistente-legal-anp",
+      "que": "Compendio legal del Área Natural Protegida, autoridades competentes y borrador de denuncia popular."
+    },
+    {
+      "nombre": "Plan de manejo del ANP",
+      "url": "https://axolotfinder.org/anp",
+      "que": "Cumplimiento legal, reglas del Programa de Manejo y fallas institucionales."
+    },
+    {
+      "nombre": "Globos de Cantoya",
+      "url": "https://axolotfinder.org/anp/globos-de-cantoya",
+      "que": "Investigación jurídica y ambiental sobre la liberación de globos en el ANP."
+    },
+    {
+      "nombre": "Zona de sacrificio",
+      "url": "https://axolotfinder.org/zona-de-sacrificio",
+      "que": "Análisis de ecología de la injusticia en Xochimilco."
+    },
+    {
+      "nombre": "Reportaje drenajes Xochimilco",
+      "url": "https://axolotfinder.org/reportaje-drenajes",
+      "que": "1,373 descargas visibles y hasta 270 millones de litros diarios de agua residual."
+    },
+    {
+      "nombre": "Monitoreo de contaminantes Atenco",
+      "url": "https://axolotfinder.org/monitoreo-contaminantes-atenco",
+      "que": "Datos fisicoquímicos de 16 parámetros en 4 puntos de San Gregorio Atlapulco."
+    },
+    {
+      "nombre": "Informe de colorimetría San Gregorio",
+      "url": "https://axolotfinder.org/informe-colorimetria-san-gregorio",
+      "que": "Mediciones y tendencias de calidad del agua 2024-2026."
+    },
+    {
+      "nombre": "Observatorio Cempasúchil",
+      "url": "https://axolotfinder.org/observatorio-cempasuchil",
+      "que": "Biopiratería, toxicología y soberanía genética del Tagetes erecta."
+    },
+    {
+      "nombre": "Historia de Xochimilco",
+      "url": "https://axolotfinder.org/historia-xochimilco",
+      "que": "Archivo histórico, chinampas y memoria colectiva."
+    }
+  ]
+}
