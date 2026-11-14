@@ -1,0 +1,70 @@
+SERVICIOS DE SANTUARIO AJOLOTE - CIMA A.C.
+Conservacion del ajolote mexicano (Ambystoma mexicanum) y restauracion del humedal de Xochimilco.
+Sitio oficial: https://axolotfinder.org | Corte: 14 de noviembre de 2026
+
+CIENCIA CIUDADANA Y DATOS
+- Registro de avistamientos de ajolote: https://axolotfinder.org/sightings
+- Reporte de ajolote silvestre en habitat natural: https://axolotfinder.org/wild-sightings
+- Mapa interactivo del Observatorio de Conservacion: https://axolotfinder.org/map
+- Enciclopedia cientifica del ajolote (historia, genomica, neurobiologia, medicina regenerativa, conservacion): https://axolotfinder.org/science
+- Base de datos de genetica, linajes y compatibilidad reproductiva: https://axolotfinder.org/genetics
+- Reporte de incidencias ambientales: https://axolotfinder.org/reporte-incidencia
+- Historia de Xochimilco y archivo historico: https://axolotfinder.org/historia-xochimilco
+- Galeria de video documental: https://axolotfinder.org/video-galeria
+
+PROYECTOS DE CONSERVACION
+- Red de biofiltros y humedales artificiales: https://axolotfinder.org/red-de-biofiltros
+- Rescate de 7 chinampas: https://axolotfinder.org/proyectos/rescate-7-chinampas
+- Laboratorio de reproduccion y conservacion genetica Coyoacan: https://axolotfinder.org/proyectos/laboratorio-reproduccion-coyoacan
+- Refugio de la tortuga casquito: https://axolotfinder.org/proyectos/refugio-tortuga-casquito
+- Chile chicuarote y economia circular: https://axolotfinder.org/proyectos/chile-chicuarote
+- Chinampas virtuales y adopcion de parcelas: https://axolotfinder.org/chinampas
+- Acciones 2026: https://axolotfinder.org/acciones-2026
+
+TURISMO Y EXPERIENCIAS
+- Turismo responsable en Xochimilco con trajinera de remo manual: https://axolotfinder.org/turismo-responsable
+- Tour Viaje por el Ecosistema del Ajolote (2 horas): https://axolotfinder.org/turismo-responsable
+- Tour Viaje Especial Dedicado al Ajolote (3 horas): https://axolotfinder.org/turismo-responsable
+- Tour Amanecer en Xochimilco (4 horas): https://axolotfinder.org/turismo-responsable
+- Batalla por la Playa, turismo comunitario en Nayarit: https://axolotfinder.org/playa
+- Turismo de playa y cocinas locales: https://axolotfinder.org/playacocinas
+
+PARTICIPACION Y COMUNIDAD
+- Voluntariado en brigadas presenciales: https://axolotfinder.org/voluntariado/brigadas
+- Voluntariado remoto, Unidad de Operaciones Especiales: https://axolotfinder.org/voluntariado/remoto
+- Certificado Guardian del Ajolote: https://axolotfinder.org/certificado
+- Donativos: https://axolotfinder.org/santuario-ajolote
+- Ajolopesos, tienda y galeria personal: https://axolotfinder.org/mi-galeria
+- Foro comunitario: https://axolotfinder.org/forum
+- Quienes somos: https://axolotfinder.org/quienes-somos
+- CIMA A.C.: https://axolotfinder.org/cima
+- Contacto: https://axolotfinder.org/contacto
+
+INFORMACION Y PERIODISMO
+- Portal de noticias La Voz del Humedal y hemeroteca: https://axolotfinder.org/noticias
+- Columna semanal El Kizaman, el Perro del Agua: https://axolotfinder.org/kizaman
+- Portada de la redaccion: https://axolotfinder.org/noticias
+
+ACCION LEGAL Y VIGILANCIA
+- Acciones legales y denuncia PROFEPA 0920121: https://axolotfinder.org/legal
+- Demanda CIMA A.C. vs. Arca Tierra: https://axolotfinder.org/legal
+- Asistente legal del ANP y borrador de denuncia popular: https://axolotfinder.org/asistente-legal-anp
+- Plan de manejo del ANP: https://axolotfinder.org/anp
+- Globos de Cantoya en el ANP: https://axolotfinder.org/anp/globos-de-cantoya
+- Carta a la Convencion Ramsar: https://axolotfinder.org/carta-ramsar
+- Zona de sacrificio: https://axolotfinder.org/zona-de-sacrificio
+- Reportaje drenajes Xochimilco: https://axolotfinder.org/reportaje-drenajes
+- Denuncia contaminacion San Gregorio: https://axolotfinder.org/denuncia-contaminacion-san-gregorio
+- Monitoreo de contaminantes Atenco: https://axolotfinder.org/monitoreo-contaminantes-atenco
+- Reporte extraordinario Atenco: https://axolotfinder.org/reporte-extraordinario-atenco
+- Informe de colorimetria San Gregorio: https://axolotfinder.org/informe-colorimetria-san-gregorio
+- Observatorio Cempasuchil: https://axolotfinder.org/observatorio-cempasuchil
+- Actores del humedal: https://axolotfinder.org/actores
+
+DATOS ABIERTOS
+- Esquema de registros geneticos: https://axolotfinder.org/api/genetics-schema.json
+- Esquema del compendio legal: https://axolotfinder.org/api/asistente-legal-anp-schema.json
+- Indice para asistentes de IA: https://axolotfinder.org/llms.txt
+
+El contenido puede citarse con atribucion a "Santuario Ajolote - CIMA A.C." y enlace a la pagina de origen.
+Los avistamientos y registros geneticos son ciencia ciudadana y no sustituyen diagnostico tecnico ni asesoria legal.
