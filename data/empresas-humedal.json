@@ -1,0 +1,77 @@
+{
+  "fuente": "Santuario Ajolote · CIMA A.C.",
+  "sitio": "https://axolotfinder.org",
+  "corte": "14 de noviembre de 2026",
+  "zona": "Acceso del Antiguo Canal de Cuemanco, ANP Ejidos de Xochimilco y San Gregorio Atlapulco",
+  "coordenadas": {
+    "lat": 19.2671,
+    "lon": -99.175
+  },
+  "aviso": "Se describe lo observado y el estado procesal. Rige la presunción de inocencia; la calificación corresponde a la autoridad.",
+  "empresas": [
+    {
+      "nombre": "Arca Tierra",
+      "acceso": "Antiguo Canal de Cuemanco, Xochimilco (7WF5+77, 16043 CDMX)",
+      "actividad": "Restaurante flotante y recorridos turísticos con embarcaciones de motor de gasolina dentro del ANP",
+      "senalamiento": "Uso de motores de gasolina en zona natural protegida durante más de 15 años; operación diaria desde las 5:00 h con recorridos de 10 a 30 km",
+      "estado": "Demanda formal de CIMA A.C. Motores de gasolina retirados por la empresa. Caso emblemático de acción ciudadana exitosa.",
+      "resultado": "motores retirados"
+    },
+    {
+      "nombre": "Akali CDMX",
+      "acceso": "Acceso operado como sistema único de estacionamiento, embarcadero y eventos en Cuemanco",
+      "actividad": "Recorridos, alimentos, bebidas y eventos dentro del Área Natural Protegida",
+      "senalamiento": "Operación turística y de eventos en predio chinampero intervenido, dentro de la denuncia popular en curso ante PROFEPA (folio 0920121)",
+      "estado": "Denuncia popular en curso. Autoridades deben determinar zonificación, permisos y legalidad de las obras.",
+      "resultado": "en revisión"
+    },
+    {
+      "nombre": "Hecho en Xochimilco",
+      "acceso": "Mismo acceso de Cuemanco señalado en la denuncia",
+      "actividad": "Marca de recorridos y experiencias turísticas",
+      "senalamiento": "Servicios turísticos ofrecidos desde un acceso evaluado como un solo proyecto por sus impactos acumulativos",
+      "estado": "Denuncia popular en curso.",
+      "resultado": "en revisión"
+    },
+    {
+      "nombre": "Las Palmas de Don Rubén",
+      "acceso": "Acceso de Cuemanco señalado en el expediente",
+      "actividad": "Alimentos y bebidas con servicio a embarcaciones",
+      "senalamiento": "Uso comercial dentro del ANP sin autorización acreditada contra el Programa de Manejo",
+      "estado": "Denuncia popular en curso.",
+      "resultado": "en revisión"
+    },
+    {
+      "nombre": "El Buen Campo",
+      "acceso": "Acceso de Cuemanco señalado en el expediente",
+      "actividad": "Alimentos, bebidas y eventos",
+      "senalamiento": "Actividad comercial en predio intervenido dentro de zona de conservación",
+      "estado": "Denuncia popular en curso.",
+      "resultado": "en revisión"
+    },
+    {
+      "nombre": "Fuego Vivo",
+      "acceso": "Acceso de Cuemanco señalado en el expediente",
+      "actividad": "Eventos y experiencias gastronómicas",
+      "senalamiento": "Realización de eventos en un sitio que debe verificarse contra la zonificación del ANP",
+      "estado": "Denuncia popular en curso.",
+      "resultado": "en revisión"
+    },
+    {
+      "nombre": "Kawil",
+      "acceso": "Acceso de Cuemanco señalado en el expediente",
+      "actividad": "Recorridos y servicios turísticos",
+      "senalamiento": "Operación turística en el borde del Antiguo Canal de Cuemanco",
+      "estado": "Denuncia popular en curso.",
+      "resultado": "en revisión"
+    },
+    {
+      "nombre": "Asadero Roket",
+      "acceso": "Acceso de Cuemanco señalado en el expediente",
+      "actividad": "Alimentos y bebidas",
+      "senalamiento": "Punto de venta dentro del conjunto señalado por la denuncia popular",
+      "estado": "Denuncia popular en curso.",
+      "resultado": "en revisión"
+    }
+  ]
+}
