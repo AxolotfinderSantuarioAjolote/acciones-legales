@@ -1,0 +1,41 @@
+# robots.txt — Santuario Ajolote · CIMA A.C.
+# Caso Arca Tierra y empresas que danan el humedal de Xochimilco
+
+User-agent: *
+Allow: /
+Disallow: /profile
+Disallow: /moderation
+
+# Buscadores
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Motores generativos y asistentes de IA (GEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://axolotfinder.org/sitemap.xml
