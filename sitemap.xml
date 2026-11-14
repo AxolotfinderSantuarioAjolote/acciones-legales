@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://axolotfinder.org/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://axolotfinder.org/legal</loc><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://axolotfinder.org/reporte-incidencia</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://axolotfinder.org/asistente-legal-anp</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://axolotfinder.org/science</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://axolotfinder.org/sightings</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+  <url><loc>https://axolotfinder.org/wild-sightings</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+  <url><loc>https://axolotfinder.org/map</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+  <url><loc>https://axolotfinder.org/genetics</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://axolotfinder.org/turismo-responsable</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://axolotfinder.org/red-de-biofiltros</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://axolotfinder.org/proyectos/rescate-7-chinampas</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://axolotfinder.org/proyectos/laboratorio-reproduccion-coyoacan</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://axolotfinder.org/proyectos/refugio-tortuga-casquito</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://axolotfinder.org/proyectos/chile-chicuarote</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://axolotfinder.org/chinampas</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://axolotfinder.org/noticias</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://axolotfinder.org/kizaman</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://axolotfinder.org/voluntariado</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://axolotfinder.org/santuario-ajolote</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://axolotfinder.org/quienes-somos</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://axolotfinder.org/cima</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://axolotfinder.org/zona-de-sacrificio</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://axolotfinder.org/reportaje-drenajes</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://axolotfinder.org/monitoreo-contaminantes-atenco</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://axolotfinder.org/carta-ramsar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://axolotfinder.org/anp</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://axolotfinder.org/playa</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://axolotfinder.org/contacto</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+</urlset>
